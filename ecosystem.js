@@ -12,6 +12,7 @@ require("can-fixture");
 require("can-fixture-socket");
 require("can-jquery");
 require("can-ndjson-stream");
+require("can-observe");
 require("can-stache-converters");
 require("can-validate");
 require("can-validate-validatejs");
