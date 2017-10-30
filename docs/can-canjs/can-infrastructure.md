@@ -1,5 +1,4 @@
 @page can-infrastructure Infrastructure
-@parent api 1
 @description Utility libraries that power the core and ecosystem collection.
 
 @body
